@@ -4,7 +4,7 @@ I am Nick Karydakis, a computer engineer specializing in software, with an inter
 
 I hold an Int. Msc. degree in Computer Science and Informatics from the University of Patras.
 
-I currently work as a collaborator at @upatras-lar, a robotics research group at the University of Patras.
+I currently work as a collaborator at [upatras-lar](https://github.com/upatras-lar), a robotics research group at the University of Patras.
 
 ## Main Projects Breakdown
 Below, you can find a breakdown of my main projects, ordered by field.

@@ -37,9 +37,9 @@ Below, you can find a breakdown of my main projects, ordered by field.
 
 ### Other Languages
 <p align="left">
-  <img src="assets/java-logo.svg" width="30" />
-  <img src="assets/javascript-logo.svg" width="30" />
-  <img src="assets/csharp-logo.svg" width="30" />
+  <img src="assets/java-logo.svg" width="40" />
+  <img src="assets/javascript-logo.svg" width="40" />
+  <img src="assets/csharp-logo.svg" width="40" />
 </p>
 
 ### Contact

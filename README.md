@@ -29,14 +29,18 @@ Below, you can find a breakdown of my main projects, ordered by field.
 
 
 ### Main Languages
-<img src="assets/cpp-logo.svg" width="30" />
-<img src="assets/python-logo.svg" width="30" />
-<img src="assets/c-logo.svg" width="30" />
+<p align="left">
+  <img src="assets/cpp-logo.svg" width="40" />
+  <img src="assets/python-logo.svg" width="40" />
+  <img src="assets/c-logo.svg" width="40" />
+</p>
 
 ### Other Languages
-<img src="assets/java-logo.svg" width="30" />
-<img src="assets/javascript-logo.svg" width="30" />
-<img src="assets/csharp-logo.svg" width="30" />
+<p align="left">
+  <img src="assets/java-logo.svg" width="30" />
+  <img src="assets/javascript-logo.svg" width="30" />
+  <img src="assets/csharp-logo.svg" width="30" />
+</p>
 
 ### Contact
 You can contact me via email at nickkarydakis@gmail.com.
